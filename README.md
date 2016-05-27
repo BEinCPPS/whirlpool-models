@@ -11,7 +11,8 @@ The models are made of two different schemas:
 
 Business modeler environment
 
-Usage of the models assumes you have the SLM tool box installed in your environment.
+Usage of the models assumes you have the SLM tool box installed in your environment, which is available:
+svn://repo.nimbus-ware.com/MSEE/SP1/WP15/D15.5/tags/v2.3.2/binaries/win32/slmtoolbox_modeling_environement-2.3.2.zip
 
 SLM Tool Box is an  integrated modeling tool, based on system engineering ECO-GRAI methodology, dedicated to manufacturing services lifecycle management.
 Key features are at different levels:

@@ -24,6 +24,8 @@ SLM Tool Box is an integrated modeling tool, based on system engineering ECO-GRA
 3. Copy the eastar diagrams in the subfolder “Processes”
 
 # MODELIO and SysML
+Modelio tool is available at https://www.modelio.org/ in the version 3.6.1 for different operating systems such as Windows 7/8/10, RedHat/CentOS, Debian/Ubuntu and Mac OS X, with hardware requirements  that match the most common installed personal computers (Pentium IV 1 Ghz or higher, 1GB memory).
+
 Modelio version 3.6.0 has been installed in POLIMI  with the following free modules:
 * Modeler Module, enabling UML modeling.
 * SysML Architect, enabling SysML modeling.

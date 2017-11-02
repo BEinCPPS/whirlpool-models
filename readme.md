@@ -24,9 +24,9 @@ SLM Tool Box is an integrated modeling tool, based on system engineering ECO-GRA
 3. Copy the eastar diagrams in the subfolder “Processes”
 
 # MODELIO and SysML
-Modelio version 3.6.0 has been previously installed in POLIMI premises with the following free modules:
+Modelio version 3.6.0 has been installed in POLIMI  with the following free modules:
 * Modeler Module, enabling UML modeling.
-* *SysML Architect, enabling SysML modeling.
+* SysML Architect, enabling SysML modeling.
 
 SysML (www.omg.org) is a language designed for modeling system architecture and functional specifications, and it is an extension of a subset of UML modeling language (www.uml.org) visual modeling standard widely adopted by software architects and developers.
 

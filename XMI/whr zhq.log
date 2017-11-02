@@ -1,0 +1,2 @@
+[02/11/17 16.22.10]: Conversion issue from "String" (value = ""null"") to "Integer".
+[02/11/17 16.22.11]: The ITaggedValue owned by "6 thermocouples", having "FlowPort_direction"  as definition, has not been exported.
